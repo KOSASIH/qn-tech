@@ -1,2 +1,2 @@
 # qn-tech
-qn-tech is a cutting-edge repository for the Quantum Nexus project, focused on developing and securing global banking and business integrations with the Pi Network.
+qn-tech is a cutting-edge repository for the Quantum Nexus project, focused on developing and securing global banking and business integrations with the Pi Network. This repository contains advanced algorithms, quantum encryption protocols, smart contract implementations, and tools for decentralized data exchange, aimed at enhancing collaboration, security, and operational efficiency across diverse sectors. Join us in revolutionizing the future of global finance and business partnerships!
