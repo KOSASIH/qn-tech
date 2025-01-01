@@ -1,2 +1,39 @@
-# Google App Engine generated folder
-appengine-generated/
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.idea/
+*.iml
+*.project
+*.classpath
+*.settings/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Environment variables
+.env
+secrets.env
+
+# Documentation
+docs/_build/
