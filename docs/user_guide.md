@@ -42,6 +42,14 @@
 [![Certified by International Association for Quantum Computing](https://img.shields.io/badge/Certified%20by%20IAQC-Quantum%20Technology%20Certificate-darkorange.svg)](https://iaqc.org/)
 [![Certified by CFA Institute](https://img.shields.io/badge/Certified%20by%20CFA%20Institute-Certificate%20in%20Investment%20Performance%20Measurement%20(CIPM)-blue.svg)](https://www.cfainstitute.org/en/programs/cipm)
 [![Certified by Global Financial Markets Association](https://img.shields.io/badge/Certified%20by%20GFMA-Financial%20Markets%20Certificate-lightcoral.svg)](https://www.gfma.org/)
+[![Certified by Quantum Computing for Everyone](https://img.shields.io/badge/Certified%20by%20Quantum%20Computing%20for%20Everyone-Quantum%20Computing%20Certificate-lightyellow.svg)](https://www.quantumcomputingforeveryone.com/)
+[![Certified by University of California, Irvine](https://img.shields.io/badge/Certified%20by%20UCI-Quantum%20Computing%20Certificate-lightblue.svg)](https://www.coursera.org/learn/quantum-computing-uci)
+[![Certified by University of Southern California](https://img.shields.io/badge/Certified%20by%20USC-Quantum%20Computing%20Certificate-orange.svg)](https://www.coursera.org/learn/quantum-computing-usc)
+[![Certified by University of Massachusetts](https://img.shields.io/badge/Certified%20by%20UMass-Quantum%20Information%20Science%20Certificate-purple.svg)](https://www.umass.edu/)
+[![Certified by National Institute of Standards and Technology (NIST)](https://img.shields.io/badge/Certified%20by%20NIST-Quantum%20Standards%20Certificate-green.svg)](https://www.nist.gov/)
+[![Certified by International Quantum Association](https://img.shields.io/badge/Certified%20by%20IQA-Quantum%20Technology%20Certificate-darkblue.svg)](https://www.iqa.org/)
+[![Certified by Financial Risk Manager](https://img.shields.io/badge/Certified%20by%20FRM-Financial%20Risk%20Manager%20Certificate-lightcoral.svg)](https://www.garp.org/education/frm)
+[![Certified by International Monetary Fund](https://img.shields.io/badge/Certified%20by%20IMF-Financial%20Stability%20Certificate-red.svg)](https://www.imf.org/)
 
 # User Guide
 
