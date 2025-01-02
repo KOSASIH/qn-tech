@@ -71,4 +71,4 @@ If you encounter issues, please check the following:
 3. Check the logs for any error messages.
 
 Support
-For further assistance, please reach out to our support team at support@qntech.example.com. We are here to help you!
+For further assistance, please reach out to our support team !! 
