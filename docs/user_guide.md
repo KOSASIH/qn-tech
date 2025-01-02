@@ -50,6 +50,14 @@
 [![Certified by International Quantum Association](https://img.shields.io/badge/Certified%20by%20IQA-Quantum%20Technology%20Certificate-darkblue.svg)](https://www.iqa.org/)
 [![Certified by Financial Risk Manager](https://img.shields.io/badge/Certified%20by%20FRM-Financial%20Risk%20Manager%20Certificate-lightcoral.svg)](https://www.garp.org/education/frm)
 [![Certified by International Monetary Fund](https://img.shields.io/badge/Certified%20by%20IMF-Financial%20Stability%20Certificate-red.svg)](https://www.imf.org/)
+[![Certified by World Bank](https://img.shields.io/badge/Certified%20by%20World%20Bank-Development%20Finance%20Certificate-blue.svg)](https://www.worldbank.org/)
+[![Certified by International Finance Corporation](https://img.shields.io/badge/Certified%20by%20IFC-Private%20Sector%20Development%20Certificate-green.svg)](https://www.ifc.org/)
+[![Certified by Bank for International Settlements](https://img.shields.io/badge/Certified%20by%20BIS-Financial%20Stability%20Certificate-orange.svg)](https://www.bis.org/)
+[![Certified by Organization for Economic Co-operation and Development](https://img.shields.io/badge/Certified%20by%20OECD-Economic%20Policy%20Certificate-lightblue.svg)](https://www.oecd.org/)
+[![Certified by International Monetary Fund](https://img.shields.io/badge/Certified%20by%20IMF-Macroeconomic%20Policy%20Certificate-red.svg)](https://www.imf.org/)
+[![Certified by Financial Stability Board](https://img.shields.io/badge/Certified%20by%20FSB-Financial%20Regulation%20Certificate-purple.svg)](https://www.fsb.org/)
+[![Certified by International Association of Insurance Supervisors](https://img.shields.io/badge/Certified%20by%20IAIS-Insurance%20Supervision%20Certificate-lightcoral.svg)](https://www.iaisweb.org/)
+[![Certified by International Capital Market Association](https://img.shields.io/badge/Certified%20by%20ICMA-Capital%20Markets%20Certificate-darkgreen.svg)](https://www.icmagroup.org/)
 
 # User Guide
 
