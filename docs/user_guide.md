@@ -50,6 +50,7 @@
 [![Certified by International Quantum Association](https://img.shields.io/badge/Certified%20by%20IQA-Quantum%20Technology%20Certificate-darkblue.svg)](https://www.iqa.org/)
 [![Certified by Financial Risk Manager](https://img.shields.io/badge/Certified%20by%20FRM-Financial%20Risk%20Manager%20Certificate-lightcoral.svg)](https://www.garp.org/education/frm)
 [![Certified by International Monetary Fund](https://img.shields.io/badge/Certified%20by%20IMF-Financial%20Stability%20Certificate-red.svg)](https://www.imf.org/)
+
 [![Certified by World Bank](https://img.shields.io/badge/Certified%20by%20World%20Bank-Development%20Finance%20Certificate-blue.svg)](https://www.worldbank.org/)
 [![Certified by International Finance Corporation](https://img.shields.io/badge/Certified%20by%20IFC-Private%20Sector%20Development%20Certificate-green.svg)](https://www.ifc.org/)
 [![Certified by Bank for International Settlements](https://img.shields.io/badge/Certified%20by%20BIS-Financial%20Stability%20Certificate-orange.svg)](https://www.bis.org/)
@@ -58,6 +59,14 @@
 [![Certified by Financial Stability Board](https://img.shields.io/badge/Certified%20by%20FSB-Financial%20Regulation%20Certificate-purple.svg)](https://www.fsb.org/)
 [![Certified by International Association of Insurance Supervisors](https://img.shields.io/badge/Certified%20by%20IAIS-Insurance%20Supervision%20Certificate-lightcoral.svg)](https://www.iaisweb.org/)
 [![Certified by International Capital Market Association](https://img.shields.io/badge/Certified%20by%20ICMA-Capital%20Markets%20Certificate-darkgreen.svg)](https://www.icmagroup.org/)
+[![Certified by International Institute of Finance](https://img.shields.io/badge/Certified%20by%20IIF-Financial%20Analysis%20Certificate-lightgreen.svg)](https://www.iif.com/)
+[![Certified by Chartered Financial Analyst Institute](https://img.shields.io/badge/Certified%20by%20CFA%20Institute-CFA%20Charterholder%20Certificate-blue.svg)](https://www.cfainstitute.org/en/programs/cfa)
+[![Certified by Global Financial Markets Association](https://img.shields.io/badge/Certified%20by%20GFMA-Financial%20Markets%20Certificate-orange.svg)](https://www.gfma.org/)
+[![Certified by International Financial Reporting Standards](https://img.shields.io/badge/Certified%20by%20IFRS-IFRS%20Certificate%20in%20Financial%20Reporting-red.svg)](https://www.ifrs.org/)
+[![Certified by Association for Financial Professionals](https://img.shields.io/badge/Certified%20by%20AFP-Certified%20Treasurer%20Certificate-purple.svg)](https://www.afponline.org/)
+[![Certified by Institute of Risk Management](https://img.shields.io/badge/Certified%20by%20IRM-Risk%20Management%20Certificate-lightblue.svg)](https://www.theirm.org/)
+[![Certified by International Association of Financial Engineers](https://img.shields.io/badge/Certified%20by%20IAFE-Financial%20Engineering%20Certificate-darkorange.svg)](https://www.iafe.org/)
+[![Certified by International Institute of Banking and Finance](https://img.shields.io/badge/Certified%20by%20IIBF-Banking%20and%20Finance%20Certificate-green.svg)](https://www.iibf.org.in/)
 
 # User Guide
 
