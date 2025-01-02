@@ -18,6 +18,14 @@
 [![Certified by Stanford University](https://img.shields.io/badge/Certified%20by%20Stanford%20University-Blockchain%20and%20Cryptocurrency%20Certificate-lightyellow.svg)](https://online.stanford.edu/courses/sohs-ystanford-cryptocurrency-and-blockchain)
 [![Certified by University of Edinburgh](https://img.shields.io/badge/Certified%20by%20University%20of%20Edinburgh-Blockchain%20Technologies%20Certificate-purple.svg)](https://www.ed.ac.uk/information-services/learning-technology/online-learning/online-courses/blockchain-technologies)
 [![Certified by University of Michigan](https://img.shields.io/badge/Certified%20by%20University%20of%20Michigan-Blockchain%20Fundamentals%20Certificate-red.svg)](https://www.coursera.org/learn/blockchain-fundamentals)
+[![Certified by IBM Quantum](https://img.shields.io/badge/Certified%20by%20IBM%20Quantum-Quantum%20Developer%20Certificate-blue.svg)](https://www.ibm.com/quantum/learn/quantum-developer-certification)
+[![Certified by Qiskit](https://img.shields.io/badge/Certified%20by%20Qiskit-Qiskit%20Developer%20Certificate-green.svg)](https://qiskit.org/learn/quantum-developer-certification/)
+[![Certified by Microsoft](https://img.shields.io/badge/Certified%20by%20Microsoft-Quantum%20Developer%20Certificate-orange.svg)](https://docs.microsoft.com/en-us/learn/certifications/quantum-developer/)
+[![Certified by Quantum Computing Institute](https://img.shields.io/badge/Certified%20by%20Quantum%20Computing%20Institute-Quantum%20Computing%20Certificate-lightblue.svg)](https://quantumcomputinginstitute.org/)
+[![Certified by Financial Times](https://img.shields.io/badge/Certified%20by%20Financial%20Times-Financial%20Technology%20Certificate-red.svg)](https://www.ft.com/financial-technology)
+[![Certified by CFA Institute](https://img.shields.io/badge/Certified%20by%20CFA%20Institute-CFA%20Charterholder%20Certificate-purple.svg)](https://www.cfainstitute.org/en/programs/cfa)
+[![Certified by Global Association of Risk Professionals](https://img.shields.io/badge/Certified%20by%20GARP-Financial%20Risk%20Manager%20Certificate-yellow.svg)](https://www.garp.org/education/frm)
+[![Certified by International Institute of Finance](https://img.shields.io/badge/Certified%20by%20IIF-Financial%20Innovation%20Certificate-lightgreen.svg)](https://www.iif.com/)
 
 # User Guide
 
