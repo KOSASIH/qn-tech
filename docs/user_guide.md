@@ -34,6 +34,14 @@
 [![Certified by International Quantum Computing Association](https://img.shields.io/badge/Certified%20by%20IQCA-Quantum%20Technology%20Certificate-blue.svg)](https://iqca.org/)
 [![Certified by Financial Planning Association](https://img.shields.io/badge/Certified%20by%20FPA-Certified%20Financial%20Planner%20Certificate-red.svg)](https://www.onefpa.org/)
 [![Certified by Institute of Finance and Management](https://img.shields.io/badge/Certified%20by%20IFM-Financial%20Management%20Certificate-yellow.svg)](https://www.ifm.org/)
+[![Certified by Quantum Computing for Computer Scientists](https://img.shields.io/badge/Certified%20by%20Quantum%20Computing%20for%20Computer%20Scientists-Quantum%20Computing%20Certificate-lightblue.svg)](https://www.quantum-computing-for-computer-scientists.com/)
+[![Certified by Quantum Computing Institute](https://img.shields.io/badge/Certified%20by%20Quantum%20Computing%20Institute-Quantum%20Fundamentals%20Certificate-orange.svg)](https://quantumcomputinginstitute.org/)
+[![Certified by University of Toronto](https://img.shields.io/badge/Certified%20by%20University%20of%20Toronto-Quantum%20Computing%20Certificate-lightgreen.svg)](https://www.coursera.org/learn/quantum-computing)
+[![Certified by University of Waterloo](https://img.shields.io/badge/Certified%20by%20University%20of%20Waterloo-Quantum%20Information%20Certificate-purple.svg)](https://uwaterloo.ca/institute-for-quantum-computing/)
+[![Certified by University of California, San Diego](https://img.shields.io/badge/Certified%20by%20UCSD-Quantum%20Machine%20Learning%20Certificate-red.svg)](https://www.coursera.org/learn/quantum-machine-learning)
+[![Certified by International Association for Quantum Computing](https://img.shields.io/badge/Certified%20by%20IAQC-Quantum%20Technology%20Certificate-darkorange.svg)](https://iaqc.org/)
+[![Certified by CFA Institute](https://img.shields.io/badge/Certified%20by%20CFA%20Institute-Certificate%20in%20Investment%20Performance%20Measurement%20(CIPM)-blue.svg)](https://www.cfainstitute.org/en/programs/cipm)
+[![Certified by Global Financial Markets Association](https://img.shields.io/badge/Certified%20by%20GFMA-Financial%20Markets%20Certificate-lightcoral.svg)](https://www.gfma.org/)
 
 # User Guide
 
