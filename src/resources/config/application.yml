@@ -1,0 +1,23 @@
+server:
+  port: 8080
+  context-path: /qntech
+
+database:
+  url: jdbc:mysql://localhost:3306/qntech_db
+  username: db_user
+  password: db_password
+  driver-class-name: com.mysql.cj.jdbc.Driver
+
+logging:
+  level:
+    root: INFO
+    com.qntech: DEBUG
+
+features:
+  enableFeatureX: true
+  enableFeatureY: false
+
+security:
+  jwt:
+    secret: your_jwt_secret
+    expiration: 3600  # in seconds
