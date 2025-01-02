@@ -1,0 +1,7 @@
+transaction_id, user_id, amount, transaction_date, status
+1, 101, 250.00, 2023-10-01, completed
+2, 102, 150.50, 2023-10-02, pending
+3, 103, 75.00, 2023-10-03, completed
+4, 101, 300.00, 2023-10-04, failed
+5, 104, 120.00, 2023-10-05, completed
+6, 105, 500.00, 2023-10-06, completed
