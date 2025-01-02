@@ -26,6 +26,14 @@
 [![Certified by CFA Institute](https://img.shields.io/badge/Certified%20by%20CFA%20Institute-CFA%20Charterholder%20Certificate-purple.svg)](https://www.cfainstitute.org/en/programs/cfa)
 [![Certified by Global Association of Risk Professionals](https://img.shields.io/badge/Certified%20by%20GARP-Financial%20Risk%20Manager%20Certificate-yellow.svg)](https://www.garp.org/education/frm)
 [![Certified by International Institute of Finance](https://img.shields.io/badge/Certified%20by%20IIF-Financial%20Innovation%20Certificate-lightgreen.svg)](https://www.iif.com/)
+[![Certified by Quantum Open Source Foundation](https://img.shields.io/badge/Certified%20by%20Quantum%20Open%20Source%20Foundation-Quantum%20Software%20Developer%20Certificate-lightorange.svg)](https://qosf.org/)
+[![Certified by D-Wave](https://img.shields.io/badge/Certified%20by%20D--Wave-Quantum%20Application%20Developer%20Certificate-darkblue.svg)](https://www.dwavesys.com/)
+[![Certified by Google Quantum AI](https://img.shields.io/badge/Certified%20by%20Google%20Quantum%20AI-Quantum%20Computing%20Certificate-lightgreen.svg)](https://quantumai.google/)
+[![Certified by Rigetti Computing](https://img.shields.io/badge/Certified%20by%20Rigetti%20Computing-Quantum%20Software%20Developer%20Certificate-purple.svg)](https://www.rigetti.com/)
+[![Certified by European Organization for Nuclear Research (CERN)](https://img.shields.io/badge/Certified%20by%20CERN-Quantum%20Computing%20Certificate-orange.svg)](https://home.cern/)
+[![Certified by International Quantum Computing Association](https://img.shields.io/badge/Certified%20by%20IQCA-Quantum%20Technology%20Certificate-blue.svg)](https://iqca.org/)
+[![Certified by Financial Planning Association](https://img.shields.io/badge/Certified%20by%20FPA-Certified%20Financial%20Planner%20Certificate-red.svg)](https://www.onefpa.org/)
+[![Certified by Institute of Finance and Management](https://img.shields.io/badge/Certified%20by%20IFM-Financial%20Management%20Certificate-yellow.svg)](https://www.ifm.org/)
 
 # User Guide
 
