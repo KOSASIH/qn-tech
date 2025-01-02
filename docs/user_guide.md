@@ -10,6 +10,14 @@
 [![Certified by BCdiploma](https://img.shields.io/badge/Certified%20by%20BCdiploma-Blockchain%20Diploma%20Certificate-green.svg)](https://bcdiploma.com/)
 [![Certified by University of Oxford](https://img.shields.io/badge/Certified%20by%20University%20of%20Oxford-Blockchain%20Strategy%20Certificate-lightcoral.svg)](https://www.oxfordonlinecourses.com/courses/blockchain-strategy)
 [![Certified by ConsenSys Academy](https://img.shields.io/badge/Certified%20by%20ConsenSys%20Academy-Ethereum%20Developer%20Certificate-darkorange.svg)](https://consensys.net/academy/)
+[![Certified by Blockchain Training Alliance](https://img.shields.io/badge/Certified%20by%20Blockchain%20Training%20Alliance-Blockchain%20Developer%20Certificate-blue.svg)](https://www.blockchaintrainingalliance.com/)
+[![Certified by University of California, Berkeley](https://img.shields.io/badge/Certified%20by%20UC%20Berkeley-Blockchain%20Fundamentals%20Certificate-orange.svg)](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
+[![Certified by IBM](https://img.shields.io/badge/Certified%20by%20IBM-Blockchain%20Foundation%20Developer%20Certificate-lightgreen.svg)](https://www.ibm.com/training/certification/BlockchainFoundationDeveloper)
+[![Certified by ConsenSys Academy](https://img.shields.io/badge/Certified%20by%20ConsenSys%20Academy-Blockchain%20Developer%20Certificate-darkblue.svg)](https://consensys.net/academy/bootcamp/)
+[![Certified by University of Nicosia](https://img.shields.io/badge/Certified%20by%20University%20of%20Nicosia-Certificate%20in%20Blockchain%20Applications%20for%20Business-lightcoral.svg)](https://www.unic.ac.cy/blockchain/)
+[![Certified by Stanford University](https://img.shields.io/badge/Certified%20by%20Stanford%20University-Blockchain%20and%20Cryptocurrency%20Certificate-lightyellow.svg)](https://online.stanford.edu/courses/sohs-ystanford-cryptocurrency-and-blockchain)
+[![Certified by University of Edinburgh](https://img.shields.io/badge/Certified%20by%20University%20of%20Edinburgh-Blockchain%20Technologies%20Certificate-purple.svg)](https://www.ed.ac.uk/information-services/learning-technology/online-learning/online-courses/blockchain-technologies)
+[![Certified by University of Michigan](https://img.shields.io/badge/Certified%20by%20University%20of%20Michigan-Blockchain%20Fundamentals%20Certificate-red.svg)](https://www.coursera.org/learn/blockchain-fundamentals)
 
 # User Guide
 
