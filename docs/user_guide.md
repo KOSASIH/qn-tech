@@ -2,6 +2,14 @@
 [![Certified by Coursera](https://img.shields.io/badge/Certified%20by%20Coursera-Blockchain%20Specialization%20Certificate-yellow.svg)](https://www.coursera.org/specializations/blockchain)
 [![Certified by edX](https://img.shields.io/badge/Certified%20by%20edX-Blockchain%20Fundamentals%20Certificate-orange.svg)](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
 [![Certified by Pi Network](https://img.shields.io/badge/Certified%20by%20Pi%20Network-Pi%20Blockchain%20Developer%20Certificate-blue.svg)](https://minepi.com/)
+[![Certified by ISACA](https://img.shields.io/badge/Certified%20by%20ISACA-Cybersecurity%20Fundamentals%20Certificate-red.svg)](https://www.isaca.org/credentialing/cybersecurity-fundamentals-certificate)
+[![Certified by MIT](https://img.shields.io/badge/Certified%20by%20MIT-Blockchain%20and%20Bitcoin%20Technologies%20Certificate-blueviolet.svg)](https://www.edx.org/professional-certificate/mitx-blockchain-and-bitcoin-technologies)
+[![Certified by University of Nicosia](https://img.shields.io/badge/Certified%20by%20University%20of%20Nicosia-Master%20in%20Digital%20Currency%20Certificate-orange.svg)](https://www.unic.ac.cy/blockchain/)
+[![Certified by Blockchain Council](https://img.shields.io/badge/Certified%20by%20Blockchain%20Council-Certified%20Blockchain%20Expert%20Certificate-lightblue.svg)](https://www.blockchain-council.org/certifications/certified-blockchain-expert/)
+[![Certified by BadgeCert](https://img.shields.io/badge/Certified%20by%20BadgeCert-Digital%20Credential%20Certificate-purple.svg)](https://www.badgecert.org/)
+[![Certified by BCdiploma](https://img.shields.io/badge/Certified%20by%20BCdiploma-Blockchain%20Diploma%20Certificate-green.svg)](https://bcdiploma.com/)
+[![Certified by University of Oxford](https://img.shields.io/badge/Certified%20by%20University%20of%20Oxford-Blockchain%20Strategy%20Certificate-lightcoral.svg)](https://www.oxfordonlinecourses.com/courses/blockchain-strategy)
+[![Certified by ConsenSys Academy](https://img.shields.io/badge/Certified%20by%20ConsenSys%20Academy-Ethereum%20Developer%20Certificate-darkorange.svg)](https://consensys.net/academy/)
 
 # User Guide
 
