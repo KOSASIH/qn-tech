@@ -5,11 +5,14 @@ Pi Coin Configuration Constants
 This module contains constants related to the Pi Coin cryptocurrency.
 """
 
+import os
+from datetime import datetime, timedelta
+
 # Pi Coin Symbol
 PI_COIN_SYMBOL = "Pi"  # Symbol for Pi Coin
 
 # Pi Coin Value
-PI_COIN_VALUE = 314159  # Fixed value of Pi Coin in USD
+PI_COIN_VALUE = 314159.00  # Fixed value of Pi Coin in USD
 
 # Pi Coin Supply
 PI_COIN_SUPPLY = 100_000_000_000  # Total supply of Pi Coin
@@ -36,7 +39,7 @@ PI_COIN_MAX_TRANSACTION_SIZE = 1_000_000  # Maximum transaction size in bytes
 PI_COIN_DECIMALS = 18  # Number of decimal places for Pi Coin
 
 # Pi Coin Genesis Block Timestamp
-PI_COIN_GENESIS_BLOCK_TIMESTAMP = "2025-01-01T00:00:00Z"  # Timestamp of the genesis block
+PI_COIN_GENESIS_BLOCK_TIMESTAMP = datetime(2025, 1, 1, 0, 0, 0)  # Timestamp of the genesis block
 
 # Pi Coin Governance Model
 PI_COIN_GOVERNANCE_MODEL = "Decentralized"  # Governance model for Pi Coin
@@ -62,5 +65,14 @@ PI_COIN_API_KEY_EXPIRATION = 3600  # API key expiration time in seconds
 # Pi Coin Regulatory Compliance
 PI_COIN_KYC_REQUIRED = True  # Whether KYC is required for transactions
 PI_COIN_COMPLIANCE_JURISDICTIONS = ["US", "EU", "UK"]  # Jurisdictions for compliance
+
+# Environment Variables for Sensitive Data
+PI_COIN_DB_CONNECTION_STRING = os.getenv("PI_COIN_DB_CONNECTION_STRING", "default_connection_string")
+PI_COIN_API_SECRET_KEY = os.getenv("PI_COIN_API_SECRET_KEY", "default_secret_key")
+
+# Advanced Security Features
+PI_COIN_USE_TWO_FACTOR_AUTH = True  # Enable two-factor authentication for transactions
+PI_COIN_MAX_FAILED_LOGIN_ATTEMPTS = 5  # Maximum failed login attempts before lockout
+PI_COIN_LOCKOUT_DURATION = timedelta(minutes=15)  # Duration of lockout after failed attempts
 
 # Additional constants can be added here as needed
